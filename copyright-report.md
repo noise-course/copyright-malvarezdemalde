@@ -227,6 +227,16 @@ Imitating the artistic style of Claude Monet does not violate copyright law. Cop
 
 YouTube’s lack of enforcement in this case aligns with copyright law, even though the platform does not explicitly assess stylistic imitation.
 
+### Relevant Case Law
+
+U.S. courts have repeatedly emphasized that fair use analysis depends on transformation and purpose rather than mere copying. In Campbell v. Acuff-Rose Music, Inc., the Supreme Court held that transformative uses (those that add new meaning, expression, or message) are more likely to qualify as fair use, even when they involve commercially valuable copyrighted works. This principle supports the conclusion that the transformed Premier League clip, which added commentary and visual analysis, aligns with legally recognized fair use despite YouTube’s lack of an explicit legal evaluation.
+
+Similarly, in Google LLC v. Oracle America, Inc., the Supreme Court reaffirmed that copying portions of copyrighted material can constitute fair use when the use serves a new and distinct purpose and does not meaningfully harm the original market. Although the context differs, the case reinforces the importance of purpose and market effect, both of which favor the transformed sports clip and weigh against the raw, non-transformative upload.
+
+With respect to AI-generated content, courts have not yet directly addressed the copyright status of purely AI-generated works. However, existing doctrine makes clear that copyright protects specific expressions rather than general ideas, concepts, or styles. This principle is consistent with decisions such as Baker v. Selden, which established that copyright does not extend to abstract systems or methods. Applied here, stylistic imitation of Claude Monet does not infringe copyright absent copying of a specific protected work, explaining why the Monet-style image is legally permissible even though it resembles a well-known artistic style.
+
+Together, these cases illustrate that legal copyright analysis relies on nuanced, context-specific reasoning that considers transformation, purpose, and market impact. This stands in contrast to YouTube’s automated enforcement system, which operates primarily through fingerprint matching and does not independently apply judicial fair use standards.
+
 ### Gap Analysis: Law, Policy, and Practice
 
 Across the experiments, a consistent pattern emerges. Copyright law evaluates purpose, transformation, and market impact through nuanced legal standards. YouTube’s policy acknowledges fair use and provides dispute mechanisms. Actual enforcement, however, is driven almost entirely by automated fingerprint matching. As a result, clearly infringing content may be blocked immediately, as seen in the raw Premier League clip. Legally valid fair uses may still face risk if they trigger Content ID. At the same time, potentially infringing AI-generated content may remain unchallenged if it does not match known reference files.
